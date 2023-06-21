@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BT Activity</string>
+    <string name="type_url">Nhập URL</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="access">Truy cập</string>
+    <string name="url_hint">https://google.com/</string>
+    <string name="get_go">Gét Gô</string>
+</resources>
