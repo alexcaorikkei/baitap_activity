@@ -1,2 +1,2 @@
 # baitap_activity
-[!photo](img.png)
+[!photo][img.png]
